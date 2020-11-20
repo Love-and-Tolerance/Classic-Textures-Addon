@@ -1,0 +1,438 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/netherrack"
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack",
+        "y": 270,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_2"
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_2",
+        "y": 270,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_3"
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_3",
+        "y": 270,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_4"
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_4",
+        "y": 270,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_5"
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_5",
+        "y": 270,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_6"
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 90,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 90,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 180,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 180,
+        "x": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 270,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 270,
+        "x": 180
+      },
+      {
+        "model": "minecraft:block/netherrack_6",
+        "y": 270,
+        "x": 270
+      }
+    ]
+  }
+}
