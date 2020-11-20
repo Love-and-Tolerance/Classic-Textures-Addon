@@ -1,0 +1,10 @@
+{
+  "language.name": "Equish",
+  "language.region": "Equestria",
+  "language.code": "eq_eq",
+  
+  "item.minecraft.chainmail_helmet": "Gummy Helmet",
+  "item.minecraft.chainmail_chestplate": "Gummy Chestplate",
+  "item.minecraft.chainmail_leggings": "Gummy Leggings",
+  "item.minecraft.chainmail_boots": "Gummy Boots"
+}
