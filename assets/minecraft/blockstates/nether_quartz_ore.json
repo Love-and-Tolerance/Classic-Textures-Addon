@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "": [ {
+      "model": "minecraft:block/nether_quartz_ore"
+    }, {
+      "model": "minecraft:block/nether_quartz_ore_2"
+    }, {
+      "model": "minecraft:block/nether_quartz_ore_3"
+    }, {
+      "model": "minecraft:block/nether_quartz_ore_4"
+    }, {
+      "model": "minecraft:block/nether_quartz_ore_5"
+    }, {
+      "model": "minecraft:block/nether_quartz_ore_6"
+    } ]
+  }
+}
