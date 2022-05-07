@@ -1,7 +1,7 @@
 {
-  "language.name": "Equish",
+  "language.name": "Modern Equish - Minimal",
   "language.region": "Equestria",
-  "language.code": "eq_eq",
+  "language.code": "eq_eq-min",
   
   "item.minecraft.chainmail_helmet": "Gummy Helmet",
   "item.minecraft.chainmail_chestplate": "Gummy Chestplate",
